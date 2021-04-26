@@ -2,12 +2,15 @@
     width: 100%;
     font-size: 25px;
     margin: 0px;
-    box-shadow: 0px 5px 5px green;
+    box-shadow: 0px 5px 5px 5px lime;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: red !important;
 }
 
 .note{
     font-size: 17px;
-    color: black;
+    color: black;   
 }
 
 .copyRightFooter{
