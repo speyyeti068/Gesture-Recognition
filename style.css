@@ -25,7 +25,7 @@
 }
 
 canvas{
-    border: 5px green solid;
+    border: 5px lime solid;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px green;
+    box-shadow: 5px 5px 5px lime;
 }
